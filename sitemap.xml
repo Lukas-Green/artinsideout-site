@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Six pages, which is the whole site. 404.html is deliberately absent: it
+     carries a noindex tag and exists only to catch a wrong address. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://artinside-out.com/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://artinside-out.com/book.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://artinside-out.com/kids.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://artinside-out.com/classes.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://artinside-out.com/media.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://artinside-out.com/notify.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+</urlset>

@@ -1,0 +1,17 @@
+# Art Inside Out.
+#
+# CLOSED TO SEARCH ENGINES, and this comment is the record of why.
+#
+# It was opened on 2026-08-30 as part of getting the site ready for its domain,
+# and closed again the same day by the pre-ship review. The reason is not
+# technical. Indexing this site makes one page that ties Kirk's full name, his
+# face, his email address and his years in prison together permanently, and
+# search caches and scrapers do not un-index on request. That is his decision
+# to make in writing, not a setting to flip on his behalf.
+#
+# The moment Kirk says yes, it is two lines:
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://artinside-out.com/sitemap.xml
+User-agent: *
+Disallow: /
